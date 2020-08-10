@@ -1,0 +1,6 @@
+framework module Pods_RomanWalk {
+  umbrella header "Pods-RomanWalk-umbrella.h"
+
+  export *
+  module * { export * }
+}
